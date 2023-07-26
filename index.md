@@ -80,9 +80,7 @@ void loop() {
   
     //VISIT : www.robotechmaker.com
 
- 
-  void loop()   
-  {   
+  
  long duration, cm;   
   pinMode(pingTrigPin, OUTPUT);   
   digitalWrite(pingTrigPin, LOW);   
