@@ -68,10 +68,10 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
   Serial.println("Hello World!");
-}
+} -->
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  
     //VISIT : www.robotechmaker.com
 
   const int pingTrigPin = 12; //Trigger connected to PIN 7   
@@ -112,7 +112,7 @@ void loop() {
   }   
 
 }
-``` -->
+
 
 # Bill of Materials
 <!-- Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
