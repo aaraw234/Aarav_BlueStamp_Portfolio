@@ -58,6 +58,9 @@ For your second milestone, explain what you've worked on since your previous mil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project -->
 
+
+
+
  I was able to make the base circuit diagram and wire all the parts such as the arduino, LED, Ultrasonic Sensor, and the switch all together and get it to work. The 5 V pin of the arduino is connected to the positive end of the breadboard, while the GND pin is connected to the negative or ground end of the breadboard. The VCC pin of the Ultrasonic sensor is connected to the 5 V pin through the positive end of the breadboard. The GND pin of the sensor is connected to the GND of the arduino through the negative end. The Trig and Echo pins of the sensor are directly connected to pin’s 12 and 10 of the arduino respectively. The short end of the LED is connected on the same column as the Ground/negative end. The other end is in the middle of the board, the resistor is connected to the longer end on the same row. The switch through its middle pin is connected to the same row as the resistor and LED and also pin 5 of the arduino. The Vibration motor’s red or positive end is connected to the third pin of the switch while its negative/ground/blue end is connected to the negative/ground end of the breadboard. One of the challenges was learning how to connect all the wires from different inputs and devices through the breadboard and making sense of the diagrams. For my next milestone, I will work on getting my parts transferred from the solderless breadboard to the actual perfboard which I will use for the main project.
  
 # Schematics 
