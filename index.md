@@ -120,9 +120,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Ultrasonic Sensor| Detects how far an object or obstacle is and sends it to the Arduino | $6.99 | <a href="https://www.amazon.com/WWZMDiB-HC-SR04-Ultrasonic-Distance-Measuring/dp/B0B1MJJLJP/ref=sr_1_3?crid=YPB6JRE05KFT&keywords=wwzmdib+ultrasonic+sensor&qid=1690473183&sprefix=ultrasonic+sensor+WWZ%2Caps%2C98&sr=8-3"> Link </a> |
+| Arduino Micro | Acts as main CPU and controls all the sensors and devices. | $19.95 | <a href="https://www.amazon.com/Arduino-Micro-Headers-A000053-Controller/dp/B00AFY2S56/ref=sr_1_3?crid=1QTI1DYT8UBWP&keywords=arduino+micro&qid=1690473005&sprefix=arduino+micro%2Caps%2C140&sr=8-3"> Link </a> |
+| Prototype Breadboard | Connects all the wiring and components of the third eye device.| $6.99 | <a href="https://www.amazon.com/HiLetgo-Finished-Prototype-Circuit-Breadboard/dp/B00FXHXT80/ref=sr_1_8?crid=8IDYCMCPYBF&keywords=hiletgo+breadboard&qid=1690473387&sprefix=HiLetGo+%2Caps%2C126&sr=8-8"> Link </a> |
 
 # Other Resources/Examples
 <!-- One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
