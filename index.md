@@ -135,10 +135,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | LED light Diodes | Blinks at a rate depending on how far or close the obstacle is to the sensor. | $6.99 | <a href="https://www.amazon.com/eBoot-Pieces-Emitting-Diodes-Assorted/dp/B06XPV4CSH/ref=sr_1_3?crid=362KS9I3EPI0S&keywords=100%2Bpieces%2Bclear%2Bled%2Blight%2Bemitting%2Bdiodes%2Bbulb%2BLED%2BLamp%2C%2B5%2Bmm&qid=1690488840&sprefix=100%2Bpieces%2Bclear%2Bled%2Blight%2Bemitting%2Bdiodes%2Bbulb%2Bled%2Blamp%2C%2B5%2Bmm%2Caps%2C120&sr=8-3&th=1"> Link </a> |
 | Velcro wrap | Used to connect the machinery to the arm and wrist | $7.98 | <a href="https://www.amazon.com/VELCRO-Brand-ONE-WRAP-Double-Sided-Multi-Purpose/dp/B000078CUB/ref=sr_1_4?crid=3826824C56MX2&keywords=Velcro+brand+one-wrap+roll&qid=1690562382&sprefix=velcro+brand+one-wrap+roll%2Caps%2C119&sr=8-4"> Link </a> |
 | Digital Multimeter | Used to measure AC and DC current of the electrical components | $9.98 | <a href="https://www.amazon.com/Etekcity-Multimeter-MSR-R500-Electronic-Multimeters/dp/B01N9QW620/ref=sr_1_5?crid=29EJCLP27WK0P&keywords=etekcity%2Bdigital%2Bmultimeter&qid=1690562662&sprefix=Etek%2Bcity%2Bdi%2Caps%2C119&sr=8-5&th=1"> Link </a> |
-
-# Other Resources/Examples
-<!-- One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
+| Buzzer | Beeps or buzzes a sound when an obstacle is detected, can be used interchangeably with the vibration motor | $6.98 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/ref=pd_ybh_a_sccl_15/135-7024201-9911107?pd_rd_w=Iy4Aa&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=177E5D08QXZJBF5JVNMD&pd_rd_wg=9gWJ3&pd_rd_r=6b08c30d-9c3c-447b-a787-d58c98a6d304&pd_rd_i=B07VK1GJ9X&psc=1"> Link </a> |
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
