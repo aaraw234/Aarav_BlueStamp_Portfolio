@@ -1,1 +1,1 @@
-This repository is a template for documenting BlueStamp Engineering projects. Users should replace this text with a description of what their project is and what their repository holds. 
+The Third Eye for the Blind is a project that allows people with sight or vision loss to be able to detect obstacles using the noise of a buzzer or vibration. It uses a sensor to sense how far an obstacle is and alerts the buzzer to buzz or the vibration motor to vibrate depending on how far an obstacle is.
