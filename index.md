@@ -44,6 +44,8 @@ For your second milestone, explain what you've worked on since your previous mil
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone -->
+For my second milestone, I switched from working on a perfboard and soldering everything to a mini solderless breadboard. I found this was much easier to get the parts working and the functionality and the layout was pretty much the same as I did with the original breadboard from my first milestone. With this breadboard though, I am able to put the velcro arm strap on and achieve full functionality without a computer. One of the major challenges working with a perfboard was that sometimes the copper circles of the pins would get blackened or burned and then it was very difficult for solder to stick the pin or wire to the board. Also since my project had lots of parts and components on the board, it was sometimes difficult to trace a path for wires to connect to different parts because another part would block its path since everything was close together. This is also one of the reasons I switched to a mini version of the solderless breadboard. For my  third milestone I will finish the entire project complete with the arm band for wearing and achieve full functionality without the need of a computer nearby.
+
 
 # First Milestone
 
