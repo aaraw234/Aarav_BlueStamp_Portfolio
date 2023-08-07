@@ -141,6 +141,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Velcro wrap | Used to connect the machinery to the arm and wrist | $7.98 | <a href="https://www.amazon.com/VELCRO-Brand-ONE-WRAP-Double-Sided-Multi-Purpose/dp/B000078CUB/ref=sr_1_4?crid=3826824C56MX2&keywords=Velcro+brand+one-wrap+roll&qid=1690562382&sprefix=velcro+brand+one-wrap+roll%2Caps%2C119&sr=8-4"> Link </a> |
 | Digital Multimeter | Used to measure AC and DC current of the electrical components | $9.98 | <a href="https://www.amazon.com/Etekcity-Multimeter-MSR-R500-Electronic-Multimeters/dp/B01N9QW620/ref=sr_1_5?crid=29EJCLP27WK0P&keywords=etekcity%2Bdigital%2Bmultimeter&qid=1690562662&sprefix=Etek%2Bcity%2Bdi%2Caps%2C119&sr=8-5&th=1"> Link </a> |
 | Buzzer | Beeps or buzzes a sound when an obstacle is detected, can be used interchangeably with the vibration motor | $6.98 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/ref=pd_ybh_a_sccl_15/135-7024201-9911107?pd_rd_w=Iy4Aa&content-id=amzn1.sym.67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_p=67f8cf21-ade4-4299-b433-69e404eeecf1&pf_rd_r=177E5D08QXZJBF5JVNMD&pd_rd_wg=9gWJ3&pd_rd_r=6b08c30d-9c3c-447b-a787-d58c98a6d304&pd_rd_i=B07VK1GJ9X&psc=1"> Link </a> |
+| Battery Pack | Used for powering the arduino to run the project | $17.99 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/ref=sr_1_15?crid=2S0KF249UAC91&keywords=anker+power+bank&qid=1691435107&sprefix=Ankekr+%2Caps%2C229&sr=8-15"> Link </a>|
+| Total Cost: $124.41 |
+
 
 
 
