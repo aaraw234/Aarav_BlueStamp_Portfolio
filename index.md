@@ -44,7 +44,7 @@ Third eye for the blind is an innovation that allows blind individuals to naviga
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone -->
-For my second milestone, I switched from working on a perfboard and soldering everything to a mini solderless breadboard. I found this was much easier to get the parts working and the functionality and the layout was pretty much the same as I did with the original breadboard from my first milestone. With this breadboard though, I am able to put the velcro arm strap on and achieve full functionality without a computer. One of the major challenges working with a perfboard was that sometimes the copper circles of the pins would get blackened or burned and then it was very difficult for solder to stick the pin or wire to the board. Also since my project had lots of parts and components on the board, it was sometimes difficult to trace a path for wires to connect to different parts because another part would block its path since everything was close together. This is also one of the reasons I switched to a mini version of the solderless breadboard. For my  third milestone I will finish the entire project complete with the arm band for wearing and achieve full functionality without the need of a computer nearby.
+For my second milestone, I switched from working on a perfboard and soldering everything to a mini solderless breadboard. I found this was much easier to get the parts working and the functionality and the layout was pretty much the same as I did with the original breadboard from my first milestone. With this breadboard though, I am able to put the velcro arm strap on and achieve full functionality without a computer. I also managed to disconnect the Ultrasonic Sensor from the Breadboard using jumper wires, and attached the arduino to a battery pack. One of the major challenges working with a perfboard was that sometimes the copper circles of the pins would get blackened or burned and then it was very difficult for solder to stick the pin or wire to the board. Also since my project had lots of parts and components on the board, it was sometimes difficult to trace a path for wires to connect to different parts because another part would block its path since everything was close together. This is also one of the reasons I switched to a mini version of the solderless breadboard. For my  third milestone I will finish the entire project complete with the arm band for wearing and achieve full functionality without the need of a computer nearby.
 
 
 # First Milestone
@@ -125,6 +125,7 @@ void loop() {
 
 
 # Bill of Materials
+These are all the parts and their costs for the project 
 <!-- Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. -->
 
