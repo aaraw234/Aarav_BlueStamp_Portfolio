@@ -145,7 +145,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 Total Cost of all the Parts: $124.41
 
-
+# Works Cited
+For more information on this project, go to:[ https://www.instructables.com/THIRD-EYE-FOR-BLINDS-an-Innovative-Wearable-Techno/](url)
 
 
 <!-- - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
