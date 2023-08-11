@@ -30,6 +30,8 @@ Third eye for the blind is an innovation that allows blind individuals to naviga
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE -->
+For my final milestone, I was able to finish the entire project. I put the velcro strap on the breadboard to make it a wearable band. I attached the ultrasonic sensor separately to the other end of the velcro band. My project is now fully functional and able to work with a user. It still works the same way, a user will wear the band, then he/she will  walk with the device on and when they are moving toward a wall or any other obstacle, the ultrasonic sensor will sense the obstacle and relay it back to the arduino, which will then send the information to either the buzzer or vibration motor to buzz or vibrate respectively. What I have learned from my experience at Bluestamp is how to work with breadboards  and perfboards. I learned how to wire up things by having to make a ground and power column to power the devices. I also learned how to do basic soldering, even though I did not use a soldered product in the end.
+
 
 
 
