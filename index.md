@@ -17,7 +17,7 @@ Third eye for the blind is an innovation that allows blind individuals to naviga
 
 <!-- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help. -->
 
-![Headstone Image](logo.svg)
+![Project Image Image](logo.svg)
   
 # Final Milestone
 
