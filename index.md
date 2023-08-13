@@ -33,11 +33,10 @@ Third eye for the blind is an innovation that allows blind individuals to naviga
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IEChddo9viY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 For my final milestone, I was able to finish the entire project. I put the velcro strap on the breadboard to make it a wearable band. I attached the ultrasonic sensor separately to the other end of the velcro band. My project is now fully functional and able to work with a user. It still works the same way, a user will wear the band, then he/she will  walk with the device on and when they are moving toward a wall or any other obstacle, the ultrasonic sensor will sense the obstacle and relay it back to the arduino, which will then send the information to either the buzzer or vibration motor to buzz or vibrate respectively. What I have learned from my experience at Bluestamp is how to work with breadboards  and perfboards. I learned how to wire up things by having to make a ground and power column to power the devices. I also learned how to do basic soldering, even though I did not use a soldered product in the end.
 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nBqwc3h3psFgPF1J0v24T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 # Second Milestone
-
 <!-- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sw7pWjcXN4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
